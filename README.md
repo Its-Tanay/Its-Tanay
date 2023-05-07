@@ -12,9 +12,9 @@
 <p align="center">
 <h2>Projects</h2>
 |                           Project Name                           | Description                                           |
-| :--------------------------------------------------------------: | :---------------------------------------------------- |
-|     [odin-recipes](https://its-tanay.github.io/odin-recipes).    | Basic HTML project                                    |
-|     [the-landing-page](https://cosmofrontier.netlify.app/)       | A website landing page built on HTML and CSS          |
-| [dynamic-calendar](https://its-tanay.github.io/dynamic-calendar) | A dynamic calendar built on basic Javascript          |
+| :--------------------------------------------------------------: | :----------------------------------------------------:|
+|     [odin-recipes](https://its-tanay.github.io/odin-recipes).    | Basic HTML project.                                   |
+|     [the-landing-page](https://cosmofrontier.netlify.app/).      | A website landing page built on HTML and CSS.         |
+| [dynamic-calendar](https://its-tanay.github.io/dynamic-calendar).| A dynamic calendar built on basic Javascript.         |
 </p>
 
