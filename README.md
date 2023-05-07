@@ -9,12 +9,3 @@
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-<p align="center">
-<h2>Projects</h2>
-|                           Project Name                           | Description                                           |
-| :--------------------------------------------------------------: | :----------------------------------------------------:|
-|     [odin-recipes](https://its-tanay.github.io/odin-recipes).    | Basic HTML project.                                   |
-|     [the-landing-page](https://cosmofrontier.netlify.app/).      | A website landing page built on HTML and CSS.         |
-| [dynamic-calendar](https://its-tanay.github.io/dynamic-calendar).| A dynamic calendar built on basic Javascript.         |
-</p>
-
