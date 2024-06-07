@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanay</h1>
 <h3 align="center">An aspiring full-stack developer from IIIT Bhopal!</h3>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
-
 - 🌱 I’m currently learning **C++, HTML, CSS, JavaScript, and React**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Its-Tanay?tab=repositories)
