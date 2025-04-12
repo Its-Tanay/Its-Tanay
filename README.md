@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay</h1>
 <h3 align="center">A software engineer from IIIT Bhopal!</h3>
 
-- 🌱 I’m currently exploring **Software Development.**
+- 🌱 I’m currently working as a Software Engineer.**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Its-Tanay?tab=repositories)
 
